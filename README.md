@@ -13,7 +13,6 @@ a Instant messaging software with server and client 一个即时通讯软件（C
 
 <br />
 ##演示效果
-<br />
 ###client login <br />
 ![TT_login](https://raw.githubusercontent.com/carzymad/images/master/TT_login.png)
 ###client online list<br />
